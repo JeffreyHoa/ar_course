@@ -21,5 +21,6 @@ The tracking solution is to find the strong enough corners and then compute spar
 
 ## Result
 ![image](https://github.com/JeffreyHoa/carpet_texture/blob/master/images/figure13.png)
-![image](https://github.com/JeffreyHoa/carpet_texture/blob/master/images/figure 21.png)
+
+![image](https://github.com/JeffreyHoa/carpet_texture/blob/master/images/figure21.png)
 
