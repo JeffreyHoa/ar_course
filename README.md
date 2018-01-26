@@ -1,5 +1,6 @@
 # AR Course
 A primary practice of augmented reality with object identification and tracking.
+Note that, this is basic without SLAM, only for rookie.
 
 ## Bag of visual words model
 The bag-of-visual-words (BoW) model is a simple assumption used in natural language processing and information retrieval, and has been widely applied in the computer vision field. The procedure includes two parts: learning and recognition. 
@@ -18,6 +19,9 @@ In the recognition procedure, the object images are represented by visual vocabu
 
 ## Object tracking
 The tracking solution is to find the strong enough corners and then compute sparse optical flow using multi-scale Lucas-Kanade algorithm.
+
+## Language and tool
+C++, OpenCV
 
 ## Result
 ![image](https://github.com/JeffreyHoa/ar_course/blob/master/images/figure13.png)
