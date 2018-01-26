@@ -20,7 +20,7 @@ In the recognition procedure, the object images are represented by visual vocabu
 The tracking solution is to find the strong enough corners and then compute sparse optical flow using multi-scale Lucas-Kanade algorithm.
 
 ## Result
-![image](https://github.com/JeffreyHoa/carpet_texture/blob/master/images/figure13.png)
+![image](https://github.com/JeffreyHoa/ar_course/blob/master/images/figure13.png)
 
-![image](https://github.com/JeffreyHoa/carpet_texture/blob/master/images/figure21.png)
+![image](https://github.com/JeffreyHoa/ar_course/blob/master/images/figure21.png)
 
