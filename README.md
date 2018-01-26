@@ -1,4 +1,4 @@
-# ar_course
+# AR Course
 A primary practice of augmented reality with object identification and tracking.
 
 ## Bag of visual words model
